@@ -1,0 +1,6 @@
+D:\UnityClass\NetworkProgramming\GameNetworkProgramming\ChattingServer_1\bin\Debug\ChattingServer_1.exe.config
+D:\UnityClass\NetworkProgramming\GameNetworkProgramming\ChattingServer_1\bin\Debug\ChattingServer_1.exe
+D:\UnityClass\NetworkProgramming\GameNetworkProgramming\ChattingServer_1\bin\Debug\ChattingServer_1.pdb
+D:\UnityClass\NetworkProgramming\GameNetworkProgramming\ChattingServer_1\obj\Debug\ChattingServer_1.csproj.CoreCompileInputs.cache
+D:\UnityClass\NetworkProgramming\GameNetworkProgramming\ChattingServer_1\obj\Debug\ChattingServer_1.exe
+D:\UnityClass\NetworkProgramming\GameNetworkProgramming\ChattingServer_1\obj\Debug\ChattingServer_1.pdb

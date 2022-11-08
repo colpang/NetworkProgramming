@@ -1,0 +1,7 @@
+D:\UnityClass\NetworkProgramming\GameNetworkProgramming\SockProgramming_3_Server\bin\Debug\SockProgramming_3_Server.exe.config
+D:\UnityClass\NetworkProgramming\GameNetworkProgramming\SockProgramming_3_Server\bin\Debug\SockProgramming_3_Server.exe
+D:\UnityClass\NetworkProgramming\GameNetworkProgramming\SockProgramming_3_Server\bin\Debug\SockProgramming_3_Server.pdb
+D:\UnityClass\NetworkProgramming\GameNetworkProgramming\SockProgramming_3_Server\obj\Debug\SockProgramming_3_Server.csproj.CoreCompileInputs.cache
+D:\UnityClass\NetworkProgramming\GameNetworkProgramming\SockProgramming_3_Server\obj\Debug\SockProgramming_3_Server.exe
+D:\UnityClass\NetworkProgramming\GameNetworkProgramming\SockProgramming_3_Server\obj\Debug\SockProgramming_3_Server.pdb
+D:\UnityClass\NetworkProgramming\GameNetworkProgramming\SockProgramming_3_Server\obj\Debug\SockProgramming_3_Server.csproj.AssemblyReference.cache
